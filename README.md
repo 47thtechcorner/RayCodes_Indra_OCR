@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://youtu.be/qAUiahzraFw">
-    <img src="https://img.youtube.com/vi/qAUiahzraFw/0.jpg" alt="Indra OCR: Replace Google Tesseract & PaddleOCR on CPU">
+  <a href="https://youtu.be/OMVFHnWgj_Y">
+    <img src="https://img.youtube.com/vi/OMVFHnWgj_Y/0.jpg" alt="RIP Google Tesseract? This 30MB AI OCR Runs 15x Faster on CPU! (Indra OCR Setup)">
   </a>
-  <h3>📺 <a href="https://youtu.be/qAUiahzraFw">Watch the full tutorial on YouTube</a></h3>
+  <h3>📺 <a href="https://youtu.be/OMVFHnWgj_Y">Watch the full tutorial on YouTube</a></h3>
 </div>
 
 # Indra OCR: Fast Document AI Engine
