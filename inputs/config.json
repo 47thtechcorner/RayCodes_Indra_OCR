@@ -1,0 +1,21 @@
+{
+  "settings": {
+    "threads": 4,
+    "mode": "auto"
+  },
+  "tasks": {
+    "task1_research_table_extractor": {
+      "input_file": "inputs/research_paper_table_page.png",
+      "output_svg": "outputs/task1_research_table_boxes.svg",
+      "output_json": "outputs/task1_research_table_data.json"
+    },
+    "task2_multipage_pdf_pipeline": {
+      "input_file": "inputs/complex_research_paper.pdf",
+      "output_md": "outputs/task2_structured_paper_knowledge_base.md"
+    },
+    "task3_benchmark_showdown": {
+      "test_image": "inputs/dense_benchmark_table_scan.png",
+      "output_json": "outputs/task3_ocr_benchmark_showdown.json"
+    }
+  }
+}
